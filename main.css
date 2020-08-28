@@ -6,9 +6,6 @@
 .body1 {background-color: rgb(192, 176, 171);
 }
 
-.body2 {background-image: url("images/Welcome.jpg");    
-}
-
 /* Flex-box */
 .container{
     display:flex;
@@ -24,6 +21,9 @@
     text-align: left;
     padding: 15px;
     width: 400px;
+}
+
+.body2 {background-image: url("images/Welcome.jpg");    
 }
 
 .box {box-sizing: border-box ;
