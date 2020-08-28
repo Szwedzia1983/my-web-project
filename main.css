@@ -3,15 +3,16 @@
 * {font-family: 'Roboto', sans-serif;
 }
 
-.body1 {background-color: rgb(206, 199, 206);
+.body1 {background-color: rgb(192, 169, 161);
 }
 
 .body2 {background-image: url("images/Welcome.jpg");    
 }
 
-.box {box-sizing: border-box;
-    padding: 25px 10px 75px;
-    border-style: none;
+.box {box-sizing: border-box ;
+    background-color: rgb(145, 107, 121);
+    padding: 0px 10px 10px 10px;
+    border-style:none;
 }
 
 #WelcomeMessage{
