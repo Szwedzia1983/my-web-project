@@ -9,11 +9,29 @@
 .body2 {background-image: url("images/Welcome.jpg");    
 }
 
+/* Flex-box */
+.container{
+    display:flex;
+    min-height:100vh;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    display: flex;
+}
+.boxflex{
+    color: rgb(192, 176, 171);
+    font-size: 100px;
+    font-family:  black;
+    text-align: left;
+    padding: 15px;
+    width: 400px;
+}
+
 .box {box-sizing: border-box ;
     background-color: rgb(139, 96, 112);
     font-family:  black;
     padding: 0px 10px 0px 10px;
     border-style:none;
+    
 }
 
 #WelcomeMessage{
@@ -27,22 +45,6 @@ font-size: 50px;
     color: black;
     font-weight: 200px;
     font-size: 25px;
-}
-.container{
-    display:flex;
-    min-height:100vh;
-    flex-direction:row;
-    flex-wrap: nowrap;
-    display: flex;
-}
-
-.boxflex{
-    color: rgb(192, 176, 171);
-    font-size: 100px;
-    font-family:  black;
-    text-align: left;
-    padding: 15px;
-    width: 400px;
 }
 
 .fontUnit{
