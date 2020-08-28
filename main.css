@@ -3,14 +3,14 @@
 * {font-family: 'Roboto', sans-serif;
 }
 
-.body1 {background-color: rgb(192, 169, 161);
+.body1 {background-color: rgb(192, 176, 171);
 }
 
 .body2 {background-image: url("images/Welcome.jpg");    
 }
 
 .box {box-sizing: border-box ;
-    background-color: rgb(145, 107, 121);
+    background-color: rgb(139, 96, 112);
     padding: 0px 10px 10px 10px;
     border-style:none;
 }
