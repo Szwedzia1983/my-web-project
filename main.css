@@ -10,8 +10,8 @@
 .container{
     display:flex;
     min-height:100vh;
-    flex-direction:row;
-    flex-wrap: nowrap;
+    flex-direction: column;
+    flex-wrap: wrap;
     display: flex;
 }
 .boxflex{
