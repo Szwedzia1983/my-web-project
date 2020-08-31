@@ -3,6 +3,10 @@
 * {font-family: 'Roboto', sans-serif;
 }
 
+u.spelling{
+    text-decoration: red wavy underline;
+}
+
 .body1 {background-color: rgb(192, 176, 171);
 }
 
@@ -68,6 +72,13 @@ font-size: 50px;
 .fontpara{
     color: black;
     font-size: 16px;
+}
+
+.fontphoto{
+    font-style: italic;
+    font-weight: normal;
+    color: black;
+    font-size: 14px;
 }
 
 .center{
